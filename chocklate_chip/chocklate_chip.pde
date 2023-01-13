@@ -1,20 +1,12 @@
-//global  variables
-
-
+// Global Variables
 void setup() {
-//creating 9 space with image in it and one image should be with aspect ratio
-//create 2 buttons
-//debuging 
-//finishing my assignamte tonigt
-};
-
-
-
-
-void draw()  {};
-
-
- void mousePressed()  {};
+  size(900, 650);//fullscreen():
+   
  
- 
- void keypressed() {};
+}
+
+void draw() {}//End draw()
+
+void mousePressed() {}//End mousePressed()
+
+void keyPressed() {}//End keyPressed()
